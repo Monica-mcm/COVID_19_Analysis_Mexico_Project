@@ -1,6 +1,6 @@
 # TOPIC: COVID-19 MEXICO
 
-DATA SETS: 
+<p align=”justify”>DATA SETS: 
 COVID-19 México (Secretaria de Salud - gob.mx)
 Resumen mensual de temperatura (Sistema Meteorológico Nacional y The Weather Channel)
 
@@ -14,4 +14,4 @@ Resumen mensual de temperatura (Sistema Meteorológico Nacional y The Weather Ch
 
 
 Pendientes:
-Incorporación de JavaScript Library
+Incorporación de JavaScript Library</p>
