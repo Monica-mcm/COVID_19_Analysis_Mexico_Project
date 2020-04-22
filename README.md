@@ -2,12 +2,12 @@
 
 <p align=”justify”>DATA SETS: 
 
-COVID-19 México (Secretaria de Salud - gob.mx)
- Link: https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico
+COVID-19 México (Secretaria de Salud - gob.mx) <br>
+ Link: https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico <br>
  API documentation: https://datos.gob.mx/blog/catalogo-apidatosgobmx
  
-Resumen mensual de temperaturas en México (Sistema Meteorológico Nacional)
-Link: https://smn.conagua.gob.mx/es/
+Resumen mensual de temperaturas en México (Sistema Meteorológico Nacional) <br>
+Link: https://smn.conagua.gob.mx/es/ <br>
 API Documentation: https://smn.conagua.gob.mx/es/web-service-api
 
 
