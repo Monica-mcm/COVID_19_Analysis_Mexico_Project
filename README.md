@@ -1,8 +1,15 @@
 # TOPIC: COVID-19 MEXICO
 
 <p align=”justify”>DATA SETS: 
+
 COVID-19 México (Secretaria de Salud - gob.mx)
-Resumen mensual de temperatura (Sistema Meteorológico Nacional y The Weather Channel)
+ Link: https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico
+ API documentation: https://datos.gob.mx/blog/catalogo-apidatosgobmx
+ 
+Resumen mensual de temperaturas en México (Sistema Meteorológico Nacional)
+Link: https://smn.conagua.gob.mx/es/
+API Documentation: https://smn.conagua.gob.mx/es/web-service-api
+
 
  Ideal visuals:
  
