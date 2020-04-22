@@ -15,8 +15,8 @@ API Documentation: https://smn.conagua.gob.mx/es/web-service-api
  
 - Mapa de casos confirmados por sexo e ingreso a UCI (Unidad de Terapia intensiva)
 - Mapa por aumento de casos por estado y relación con temperaturas diarias
-- Comparación de neumonías atípicas vs casos confirmados de COVID en hombres y mujeres
-- Cantidad de enfermedades previas a contraer el COVID
+- Comparación de neumonías atípicas vs casos confirmados de COVID
+- Cantidad de enfermedades previas a contraer el COVID en hombres y mujeres
 - Enfermedades previas que pueden propiciar más al COVID
 
 
