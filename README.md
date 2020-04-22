@@ -20,5 +20,11 @@ API Documentation: https://smn.conagua.gob.mx/es/web-service-api
 - Enfermedades previas que pueden propiciar más al COVID
 
 
-Pendientes:
-Incorporación de JavaScript Library</p>
+Pendiente -  Elección de librerías de JavaScript: <br>
+https://webix.com/examples/ <br>
+https://knockoutjs.com/examples/cartEditor.html <br>
+https://community.algolia.com/places/examples.html#simple-input <br>
+https://popper.js.org/ <br>
+https://sigmajs.john-coene.com/ <br>
+https://multiple.js.org/ <br>
+
