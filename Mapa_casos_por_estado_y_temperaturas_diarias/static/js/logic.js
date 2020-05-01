@@ -11,12 +11,20 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   id: "mapbox.streets",
   accessToken: API_KEY
 }).addTo(myMap);
-// Store API query variables
-var baseURL = "https://smn.conagua.gob.mx/webservices/?method=1";
-var state = "Aguascalientes";
-var date = "$where=ValidDateUtc between'20200223T000000Z' and '20200424T000000Z'";
-var temperature = "HiTempC";
-var urldata = (state, date, temperature)
+
+// Store our API endpoint inside queryUrl
+var queryUrl = "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2014-01-01&endtime=" +
+  "2014-01-02&maxlongitude=-69.52148437&minlongitude=-123.83789062&maxlatitude=48.74894534&minlatitude=25.16517337";
+
+// Perform a GET request to the query URL
+d3.json(queryUrl, function(data) {
+  // Once we get a response, send the data.features object to the createFeatures function
+  createFeatures(data.features);
+});
+
+
+// for estado in estados:
+// resultado = requests.get("url_api" + estado).json()
 
 // Grab the data with d3
 d3.json(baseURL, function(response); 
