@@ -1,7 +1,7 @@
 // JavaScript
 var multiple = new Multiple({
     selector: '.item',
-    background: 'url(https://img.vixdata.io/pd/webp-large/es/sites/default/files/imj/elgranchef/p/pollo-a-la-francesa.jpg)'//'linear-gradient(#273463, #8B4256)'
+    background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWcDZksGcnjMmK-BPIV5quxQ6VyynNDlmcMOAU0brbTRuKIRM7&s)'//'linear-gradient(#273463, #8B4256)'
   });
 
   var inside = new Multiple({
